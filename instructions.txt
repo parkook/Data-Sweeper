@@ -1,7 +1,7 @@
 OpenCart - Data Sweeper
 
 Minimum version tested: 1.5.6.x
-Maximum version tested: 1.5.6.x
+Maximum version tested: 3.0.x.x
 
 ---------------------------------
 Installation instructions
